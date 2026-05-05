@@ -1,107 +1,43 @@
-# Valentine's Day Interactive Page
+# 🤝 Friend Interactive Page
 
-A fun, interactive Valentine's Day page where the "Yes" button grows bigger every time they click "No" — with falling hearts, cute GIFs, music, and playful toast messages. Built with pure HTML, CSS, and JavaScript.
+A fun, interactive webpage where your friend is asked an important question — and the "Yes" button keeps getting bigger every time they try to click "No" 😄
 
-**Live demo:** [sahilgogna.github.io/v-day](https://sahilgogna.github.io/v-day)
-
-
----
-
-## Want to Use This to Impress Your GF/Wife?
-
-You've got three options — pick whatever works for you.
+This project includes animations, GIFs, music, and playful messages to create a memorable and fun experience.
 
 ---
 
-### Option 1: Just Send the Link
+## 🌐 Live Demo
 
-No setup needed. Just send this link:
-
-```
-https://sahilgogna.github.io/v-day
-```
-
-That's it. Done. You're welcome.
+https://adnankhan00001.github.io/friend/
 
 ---
 
-### Option 2: Fork It and Make It Yours
+## 🎯 What This Project Does
 
-Want your own version you can customize? Follow these steps:
-
-#### 1. Fork the Repo
-- Go to [github.com/SahilGogna/v-day](https://github.com/SahilGogna/v-day)
-- Click the **Fork** button in the top-right corner
-- This creates a copy of the repo under your GitHub account
-
-#### 2. Enable GitHub Pages
-- In your forked repo, go to **Settings** (the gear icon tab)
-- In the left sidebar, click **Pages**
-- Under **Source**, select **"Deploy from a branch"**
-- Under **Branch**, select **`main`** and **`/ (root)`**
-- Click **Save**
-
-#### 3. Wait ~2 Minutes
-- GitHub will build and deploy your site
-- Your site will be live at:
-  ```
-  https://yourusername.github.io/v-day
-  ```
-  (Replace `yourusername` with your actual GitHub username)
-
-#### 4. Personalize It
-- Edit `index.html` to change the question, title, or GIF
-- Edit `yes.html` to change the celebration page
-- Edit `script.js` to tweak the toast messages, button behavior, or GIF changes
-- Edit `style.css` to change colors, fonts, or animations
-- Swap out the music file in the `music/` folder with your own song
-
-> **Tip:** You can edit files directly on GitHub by clicking on a file and hitting the pencil (edit) icon. No need to clone anything locally if you just want quick changes.
+- Asks your friend a fun question (e.g., "Will you stay my best friend forever?")
+- If they click **No**:
+  - Button shrinks 😈
+  - Funny messages appear
+- The **Yes** button:
+  - Keeps growing bigger 😂
+  - Becomes impossible to ignore
+- Clicking **Yes** redirects to a celebration page 🎉
 
 ---
 
-### Option 3: Vibe Code Your Own From Scratch
+## 🚀 How to Use
 
-Want something completely unique? Use AI to build it.
+### Option 1: Just Share the Link
 
-#### 1. Open Antigravity
-- Google **"anti gravity google"** or go to [antigravity.dev](https://www.antigravity.dev)
-- It has **Sonnet 4.6** built right in — no need to go anywhere else
+Once deployed, simply send this link to your friend:
 
-#### 2. Describe What You Want
-- Tell it exactly what you're imagining. Some ideas:
-  - Falling hearts animation with a love letter reveal
-  - Interactive story where they choose their adventure
-  - A countdown to Valentine's Day with daily messages
-  - A quiz about your relationship
-  - Whatever your heart desires — literally
-
-#### 3. Get the Code
-- Antigravity will generate the full HTML, CSS, and JavaScript for you
-- Copy the code into files on your computer
-
-#### 4. Deploy It
-- Create a new GitHub repository
-- Push your code to it
-- Enable GitHub Pages the same way as **Option 2** (Settings → Pages → Deploy from branch → main → root → Save)
-- Your custom creation goes live in ~2 minutes
+https://adnankhan00001.github.io/friend/
 
 ---
 
-## Project Structure
+### Option 2: Customize Your Own Version
 
-```
-v-day/
-├── index.html       # Main page — "Will you be my Valentine?"
-├── yes.html         # Celebration page after they say Yes
-├── script.js        # Main page logic (button growth, GIF swaps, toasts)
-├── yes-script.js    # Celebration page animations
-├── style.css        # All the styling and animations
-└── music/           # Background music
-```
+#### 1. Clone the Repository
 
----
-
-## License
-
-Do whatever you want with it. Make someone smile.
+```bash
+git clone https://github.com/adnankhan00001/friend.git

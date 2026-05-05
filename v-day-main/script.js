@@ -11,10 +11,10 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you sure? 🤔",
+    "Soch Le.....? 🤔",
     "Beta please... 🥺",
-    "If you say no, I will be really sad...",
-    "I will be very sad... 😢",
+    "Agar No bola to tera sir fod dunga re motki",
+    "Na manbe kaa re 😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
